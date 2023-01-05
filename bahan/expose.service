@@ -1,0 +1,11 @@
+[Unit]
+Description=Auto Expose Website
+After=network.target nss-lookup.target
+Wants = network-online.target
+
+[Service]
+ExecStart=/bin/bash /usr/sbin/expose
+Restart=on-failure
+
+[Install]
+WantedBy = multi-user.target
