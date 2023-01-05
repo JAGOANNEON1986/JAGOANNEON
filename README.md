@@ -1,9 +1,16 @@
 # JAGOANNEON
 # Pagar Nusa Since 1986
-# Errorcode86
+# update dulu
 ```
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot
 ```
+# INSTALL BBR
+```
+wget -N --no-check-certificate "https://raw.githubusercontent.com/JAGOANNEON1986/Linux-NetSpeed/master/tcp.sh"
+chmod +x tcp.sh
+./tcp.sh
+```
+
 # Install AutoScript 2023
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/install2023.sh && chmod +x install2023.sh && ./install2023.sh
@@ -181,7 +188,7 @@ wget https://github.com/errorcode86/Ronggolawe86/raw/main/multipath && chmod +x 
 
 -----
 
-![github stats](https://github-readme-stats.vercel.app/api?username=errorcode86&show_icons=true&theme=synthwave)
+![github stats](https://github-readme-stats.vercel.app/api?username=JAGOANNEON1986&show_icons=true&theme=synthwave)
 
 ### Hi there 👋
 Here are some ideas to get you started:
