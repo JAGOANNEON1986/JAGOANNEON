@@ -1,6 +1,6 @@
 [Unit]
 Description=UDP 7900
-Documentation=https://github.com/manssizz
+Documentation=https://github.com/JAGOANNEON1986
 After=syslog.target network-online.target
 
 [Service]
