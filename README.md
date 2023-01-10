@@ -4,7 +4,7 @@
 ```
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot
 ```
-# INSTALL BBR
+# INSTALL BBR Manual
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/JAGOANNEON1986/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh
@@ -26,7 +26,7 @@ wget https://github.com/errorcode86/Ronggolawe86/raw/main/multipath && chmod +x 
 ```
 
 <p align="center">
-  <img src="https://github.com/Niacholasjohnathanturley/VPN-EXECUTIVE/raw/main/folder/IMG_20221231_071012.jpg" width="370px">
+  <img src="https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/images/slowdns.jpg" width="370px">
   <br><br>
 
 # Service & PORT AUTOSCRIPT 2023
