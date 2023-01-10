@@ -15,15 +15,13 @@ chmod +x tcp.sh
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/install2023.sh && chmod +x install2023.sh && ./install2023.sh
 ```
-# Setup Multipath Bisa pilih Salah Satu
-```
-wget https://github.com/errorcode86/Ronggolawe86/raw/main/multipath && chmod +x multipath && ./multipath
-```
-
-# Jalankan multi path
-```
-./multipath
-```
+# Attention Installing Slowdns In AUTOSCRIPT
+- Perlu Di Perhatikan Ketika Memasuki Install Slowdns Akan Terjadi Seperti Stuck Sebenarnya itu bukan Stuck
+- Tapi itu Adalah Command Untuk Memasukkan Nama Subdomain untuk Slowdnsnya
+- Perhatikan Gambar Di Bawah
+- Untuk langkah Pertama Masukkan Fake Subdomain Dns nya (Bebas Mau Di isi apa) lalu Enter
+- Langkah Kedua Masukkan Subdomain Slowdns Yang akan Di pakai (Bebas Mau Di isi apa) tekan Enter Lagi
+- Lalu Tunggu Hingga Proses Installasi Selesai
 
 <p align="center">
   <img src="https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/images/slowdns.jpg" width="370px">
