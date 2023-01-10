@@ -4,7 +4,9 @@
 ```
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot
 ```
-# INSTALL BBR Manual
+# INSTALL BBR Manual (Tidak Di Rekomendasikan)
+# Karena Di Dalam AutoScript Sudah Ada Setup AutoBBR
+# Untuk Installasi BBR Manual Hanya Untuk Sebagian Yang Faham Saja Ya
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/JAGOANNEON1986/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh
