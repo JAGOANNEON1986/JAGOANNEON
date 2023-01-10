@@ -68,7 +68,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 >
 > `Multi Path & Support Dynamic Path`
 >
-> `XrayDNS 2022`
+> `XrayDNS 2023`
 >
 > `Timezone Asia/Jakarta (GMT +7)`
 >
