@@ -1,5 +1,7 @@
 # JAGOANNEON
 # Pagar Nusa Since 1986
+# For OS UBUNTU 18 & 20
+# And Debian 9 - 10 buster
 # update dulu
 ```
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot
