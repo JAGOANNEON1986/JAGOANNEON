@@ -20,18 +20,21 @@ chmod +x tcp.sh
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/install2023.sh && chmod +x install2023.sh && ./install2023.sh
 ```
 # Attention Installing Slowdns In AUTOSCRIPT
-- Perlu Di Perhatikan Ketika Memasuki Install Slowdns Akan Terjadi Seperti Stuck Sebenarnya itu bukan Stuck
-- Tapi itu Adalah Command Untuk Memasukkan Nama Subdomain untuk Slowdnsnya
-- Perhatikan Gambar Di Bawah
-- Untuk langkah Pertama Masukkan Fake Subdomain Dns nya (Bebas Mau Di isi apa) lalu Enter
-- Langkah Kedua Masukkan Subdomain Slowdns Yang akan Di pakai (Bebas Mau Di isi apa) tekan Enter Lagi
-- Lalu Tunggu Hingga Proses Installasi Selesai
+- Dalam Installasi Slowdns Disini Kita OFF 
+- Untuk Mengaktifkan Slowdns ada 2 step
+# Step 1 salin link di bawah
+```
+cd /etc/slowdns
+./dnstt-server -gen-key -privkey-file server.key -pubkey-file server.pub
+chmod +x *
+```
+# Step Finishing
+- Masuk ke menu
+- lalu pilih restart service
+- tunggu hingga selesai
+- √ Slowdns all service Berhasil Di Aktifkan
 
-<p align="center">
-  <img src="https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/images/slowdns.jpg" width="370px">
-  <br><br>
-
-# Service & PORT AUTOSCRIPT 2023
+# Berikut Adalah Service & PORT AUTOSCRIPT 2023
 
 |        SERVICE          |      PORT      |
 |-------------------------|----------------|
