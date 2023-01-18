@@ -205,8 +205,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Serah Lah
 - 📫 How to reach me: Facebook "Generasi Ronggolawe Tuban"
 - ⚡ Fun fact: Entahlah men, gw gak punya fakta yang menyenangkan
-- 💵 Donate : mau donate sini dana 085749892022 A/N MUIMAH
-- 💻 Get Free Acces 7 Day : Gass wa gua di nomor ini 
+- 💵 Donate : link sawer
+```
+https://saweria.co/ronggolawe1986
+```
+
+- 💻 Get Free Acces Random Exp : Gass wa gua di nomor ini 
 ```
 https://wa.me/+6287743253904
 ```
