@@ -15,7 +15,7 @@ chmod +x tcp.sh
 ./tcp.sh
 ```
 
-# Install AutoScript 2023
+# Install AutoScript 2023 (close) bisa chat admin
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/install2023.sh && chmod +x install2023.sh && ./install2023.sh
 ```
