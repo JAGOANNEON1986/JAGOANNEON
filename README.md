@@ -71,7 +71,11 @@ chmod +x *
 >
 > `Show Quota User Xray`
 >
-> `Multi Path & Support Dynamic Path`
+> `Multi Path Vmess & Support Dynamic Path`
+>
+> `Multi Port TlS : 443,8443,2087`
+>
+> `Multi Port NON TlS : 80,8880,8080,2080,2086,2082`
 >
 > `XrayDNS 2023`
 >
