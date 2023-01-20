@@ -38,7 +38,7 @@ chmod +x *
 ```
 # Step Finishing
 - Masuk ke menu
-- lalu pilih restart service
+- lalu pilih restart service atau pilih nomor 13 lalu enter
 - tunggu hingga selesai
 - √ Slowdns all service Berhasil Di Aktifkan
 
