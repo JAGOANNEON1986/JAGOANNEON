@@ -226,3 +226,10 @@ https://saweria.co/ronggolawe1986
 ```
 https://wa.me/+6287743253904
 ```
+
+### Update Patch AUTOSCRIPT
+```
+wget -O /usr/bin/update "https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/update.sh"
+chmod +x /usr/bin/update
+update
+```
