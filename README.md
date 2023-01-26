@@ -233,3 +233,9 @@ wget -O /usr/bin/update "https://github.com/JAGOANNEON1986/JAGOANNEON/raw/main/u
 chmod +x /usr/bin/update
 update
 ```
+### Attention
+- Maaf Ya Blor Script Ini Ane Buat Berbayar
+- Ya mayan Lah buat uang rokok
+- Murah Kok blor cuma 10k
+- Buat yang jualan Vpn cocok ini
+- Garansi Ganti IP 7 hari dari awal Daftar ya Blor2ku
