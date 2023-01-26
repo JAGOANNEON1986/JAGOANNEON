@@ -9,7 +9,7 @@
 
 # Pagar Nusa Since 1986
 # For OS UBUNTU 18 & 20
-# And Debian 9 - 10 buster
+# And Debian 9 - 10 buster - 11 bullseye
 # update dulu
 ```
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot
